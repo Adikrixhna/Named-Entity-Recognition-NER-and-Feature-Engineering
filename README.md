@@ -35,6 +35,7 @@ Modeling: A Random Forest Classifier is used to classify articles into fake or r
 Visualization
 
 Box plots: Show the distribution of named entities and tweet count based on the label (fake/real).
+
 Correlation Heatmap: Visualizes the correlation between the extracted features.
 
 Model Evaluation
@@ -42,4 +43,5 @@ Model Evaluation
 The classifier is evaluated using:
 
 Accuracy Score: Measures the overall performance of the model.
+
 F1 Score: Provides a balance between precision and recall, especially useful for imbalanced datasets.
